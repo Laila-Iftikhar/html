@@ -1,0 +1,31 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .gitattributes
+#	new file:   .gitignore
+#	new file:   about.html
+#	new file:   aboutback.gif
+#	new file:   abouts.png
+#	new file:   b1.PNG
+#	new file:   b2.PNG
+#	new file:   backgrounds.jpg
+#	new file:   contactback.jpg
+#	new file:   contactme.html
+#	new file:   contacts.jpg
+#	new file:   fb.png
+#	new file:   gallery.html
+#	new file:   gmail.jpg
+#	new file:   hobby.jpg
+#	new file:   home.html
+#	new file:   hotmail-creater.jpg
+#	new file:   htmll/.gitattributes
+#	new file:   htmll/.gitignore
+#	new file:   large.jpg
+#	new file:   photos.jpg
+#
+
